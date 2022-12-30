@@ -1,0 +1,3 @@
+docker build -t remarkable-simulation .
+docker create --cap-add NET_ADMIN --cap-add SYS_ADMIN --privileged -P -p 2200:22 --name 'remarkable-simulation' remarkable-simulation:latest
+docker start remarkable-simulation

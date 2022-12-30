@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="612px" height="792px" viewBox="0 0 612 792" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Untitled 2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blank" fill="#FFFFFF" fill-rule="nonzero">
+            <rect id="Rectangle" x="0" y="0" width="612" height="792"></rect>
+        </g>
+        <text id="SIMULATION-BLANK-TEM" fill="#5C1A8A" fill-rule="nonzero" font-family="DINCondensed-Bold, DIN Condensed" font-size="128" font-style="condensed" font-weight="bold">
+            <tspan x="63.9" y="222">SIMULATION </tspan>
+            <tspan x="172.828" y="350">BLANK </tspan>
+            <tspan x="104.284" y="478">TEMPLATE</tspan>
+            <tspan x="226.204" y="606">SVG</tspan>
+        </text>
+    </g>
+</svg>
